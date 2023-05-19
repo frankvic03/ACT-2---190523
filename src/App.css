@@ -1,0 +1,33 @@
+.App {
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  margin-top: 60px;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+th,
+td {
+  padding: 20px;
+  border-bottom: 1px solid red;
+}
+
+th {
+  background-color:blanchedalmond;
+}
+
+img {
+  width: 70px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 20%;
+}
